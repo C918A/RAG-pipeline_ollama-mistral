@@ -11,7 +11,7 @@ git clone https://github.com/C918A/RAG-pipeline_ollama-mistral.git cd RAG-pipeli
 
 pip install -r requirements.txt
 
-3. Запустите приложение:
+3. Запустите приложение (/src):
 
 streamlit run app.py
 
